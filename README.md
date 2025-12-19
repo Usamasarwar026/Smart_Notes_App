@@ -8,31 +8,31 @@ Smart Notes is an Android application built with **Kotlin** and **Firebase** tha
 
 *  **User Authentication**
 
-  * Secure sign-up and login using Firebase Authentication
+    Secure sign-up and login using Firebase Authentication
 
 *  **Notes Management (CRUD)**
 
-  * Create notes
-  * View notes
-  * Update notes
-  * Delete notes
+    * Create notes
+    * View notes
+    * Update notes
+    * Delete notes
 
 *  **Cloud Storage**
 
-  * Notes are stored securely in Firebase Firestore
-  * Data is synced across devices
+    * Notes are stored securely in Firebase Firestore
+    * Data is synced across devices
 
 *  **Search Notes**
 
-  * Search notes by title or keywords
+     Search notes by title or keywords
 
 *  **Timestamps**
 
-  * Automatic creation and last updated time for each note
+    Automatic creation and last updated time for each note
 
 *  **Notifications**
 
-  * Notifications are shown when:
+    Notifications are shown when:
 
     * User logs in
     * A note is created
@@ -42,7 +42,7 @@ Smart Notes is an Android application built with **Kotlin** and **Firebase** tha
 
 *  **Logout**
 
-  * Secure logout functionality
+    Secure logout functionality
 
 ---
 
@@ -95,4 +95,5 @@ The goal of this project is to build a secure and user-friendly cloud-based note
 **Semester:** 7th Morning
 
 ---
+
 
