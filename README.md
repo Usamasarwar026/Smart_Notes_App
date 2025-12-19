@@ -68,7 +68,7 @@ Smart Notes is an Android application built with **Kotlin** and **Firebase** tha
 
 <p align="center">
   <img src="assets/ScreenShot_4.jpeg" width="230"/>
-  <img src="assets/ScreenShot_5.jpeg" width="230"/>
+  <img src="assets/ScreenShot _5.jpeg" width="230"/>
   <img src="assets/ScreenShot_6.jpeg" width="230"/>
 </p>
 
@@ -115,6 +115,7 @@ The goal of this project is to build a secure and user-friendly cloud-based note
 **Semester:** 7th Morning
 
 ---
+
 
 
 
