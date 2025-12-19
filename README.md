@@ -38,7 +38,7 @@ Smart Notes is an Android application built with **Kotlin** and **Firebase** tha
     * A note is created
     * A note is updated
     * A note is deleted
-  * Enhances user feedback and user experience
+    Enhances user feedback and user experience
 
 *  **Logout**
 
@@ -75,7 +75,7 @@ The goal of this project is to build a secure and user-friendly cloud-based note
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Voice notes
 * Image attachments
@@ -95,5 +95,6 @@ The goal of this project is to build a secure and user-friendly cloud-based note
 **Semester:** 7th Morning
 
 ---
+
 
 
