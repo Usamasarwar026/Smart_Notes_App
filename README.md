@@ -112,9 +112,9 @@ The goal of this project is to build a secure and user-friendly cloud-based note
 * **Muhammad Awais Ramzan**
 
 **Department:** Software Engineering
-**Semester:** 7th Morning
 
 ---
+
 
 
 
